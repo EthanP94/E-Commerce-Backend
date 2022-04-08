@@ -2,7 +2,7 @@
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
   ## Description 
-  This project is the creation of the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application displays creation of database using mySQL with models and associations. Then demonstrates the API Routes to perform RESTful CRUD operations displayed in my walk through videos.
+  This project is the creation of the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application displays creation of database using mySQL with models and associations. Then demonstrates the API Routes to perform RESTful CRUD operations displayed in my walk through videos.  Click [here](chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/e56d8498-a7a1-4941-ybce-eb55f48400fe) to watch a walkthrough.
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
